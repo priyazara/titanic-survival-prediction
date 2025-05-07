@@ -12,7 +12,7 @@ The dataset used is from the [Kaggle Titanic Competition](https://www.kaggle.com
 ## 🛠️ Technologies Used
 
 - Python
-- Jupyter Notebook
+- google.colab Notebook
 - pandas, NumPy
 - scikit-learn
 - matplotlib, seaborn
