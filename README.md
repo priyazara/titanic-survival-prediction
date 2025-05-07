@@ -1,7 +1,7 @@
 
 # Titanic Survival Prediction 🚢
 
-This is a beginner-level machine learning project that predicts passenger survival on the Titanic dataset from Kaggle using logistic regression.
+This is a beginner-level machine learning project that predicts passenger survival on the Titanic dataset from Kaggle using Random forest and Decisioin tree.
 
 ## 📊 Dataset
 
