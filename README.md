@@ -36,5 +36,5 @@ The model used in this project is **Logistic Regression**, a basic classificatio
 ---
 
 Feel free to explore, suggest improvements, or fork the repo!
-``
+
 
